@@ -50,7 +50,6 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   email: 'mailto:vst93g@gmail.com'
-  weibo: '//weibo.com/929701465'
   github: '//github.com/vst93'
 
 # Tags 设置标签
